@@ -1,0 +1,9 @@
+F:\MyCode\Ithome爬虫\Ithome爬虫\bin\Debug\Ithome爬虫.exe.config
+F:\MyCode\Ithome爬虫\Ithome爬虫\bin\Debug\Ithome爬虫.exe
+F:\MyCode\Ithome爬虫\Ithome爬虫\bin\Debug\Ithome爬虫.pdb
+F:\MyCode\Ithome爬虫\Ithome爬虫\obj\Debug\Ithome爬虫.csprojResolveAssemblyReference.cache
+F:\MyCode\Ithome爬虫\Ithome爬虫\obj\Debug\Ithome爬虫.exe
+F:\MyCode\Ithome爬虫\Ithome爬虫\obj\Debug\Ithome爬虫.pdb
+F:\MyCode\Ithome爬虫\Ithome爬虫\bin\Debug\HtmlAgilityPack.dll
+F:\MyCode\Ithome爬虫\Ithome爬虫\bin\Debug\HtmlAgilityPack.pdb
+F:\MyCode\Ithome爬虫\Ithome爬虫\bin\Debug\HtmlAgilityPack.xml
