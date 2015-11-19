@@ -24,7 +24,7 @@ namespace Ithome爬虫
             string url = "http://www.ithome.com/ithome/CommentCount.aspx?newsid=";
             WebClient wc = null;
             string html = string.Empty;
-            for (int i = start; i <= end; i++)
+            for (int i = start; i <= end; i++) //循环抓取各个页面的评论
             {
                 Console.WriteLine("读取第" + i + "个页面");
                 wc = new WebClient();
@@ -32,6 +32,7 @@ namespace Ithome爬虫
                 html = wc.DownloadString(url + i.ToString());
                 ResolveComment(html);
             }
+            sb.Append(end.ToString()); //将最后一个页面的编号写在文件末尾，做记录用
             File.WriteAllText("1.txt",sb.ToString());
         }
         /// <summary>
